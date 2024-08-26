@@ -24,8 +24,9 @@ Also, we are trying to make many people and students interested in robots throug
 [instagram]: https://instagram.com//robit_korea_official
 [Facebook]: https://facebook.com/kwrobit
 
-<br>
-## RO:BIT Humanoid Robot Team
+
+
+<br>## RO:BIT Humanoid Robot Team
 ### Research area
 
 #### Computer vision
