@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://teamHumanoid/.github/blob/master/profile/robit_logo_kw.png" alt="ONLY_ROBIT" />
+  <img src="https://.github/blob/master/profile/robit_logo_kw.png" alt="ONLY_ROBIT" />
 </div>
 ## Hi there 👋
 
