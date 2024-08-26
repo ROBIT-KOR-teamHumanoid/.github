@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/ROBIT-KOR-teamHumanoid/.github/master/images/robit_logo_kw.png" witdh="480px" alt="ONLY_ROBIT" />
 </div>
 
-## Hi there 👋
+# About us!
+## Robot Sports Game Team RO:BIT
 
 <!--
 
