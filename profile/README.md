@@ -34,16 +34,15 @@ Also, we are trying to make many people and students interested in robots throug
 
 ## Team Members
 #### Currently Active Member
-- 17th Yoon So Jeong <2024 Team Leader> - computer vision, circuit design [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
+- 17th Yoon So Jeong <2024 Team Leader> - computer vision, circuit design[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
 
-- 17th Dae Kyum Kim  - hardware design [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/daekyum02]</a>
+- 17th Dae Kyum Kim  - hardware design[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/daekyum02]
 
-- 17th Seung Won Chang -humanoid walking [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
+- 17th Seung Won Chang -humanoid walking[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
 
-- 18th Tae Yong Shin - computer vision [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]</a>
+- 18th Tae Yong Shin - computer vision[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
 
-- 18th Hyun Woo You - hardware design [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
+- 18th Hyun Woo You - hardware design[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
 
-- 18th Jeong In Jang - circuit design [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]</a>
-
-- 18th Yu Jung Jung - humanoid walking [<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]</a>
+- 18th Jeong In Jang - circuit design[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
+- 18th Yu Jung Jung - humanoid walking[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
