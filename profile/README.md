@@ -45,7 +45,7 @@ Also, we are trying to make many people and students interested in robots throug
 - 18th Hyun Woo You - hardware design [<img align="center" alt="03YHW | https://github.com/03YHW" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub4]
 
 - 18th Jeong In Jang - circuit design [<img align="center" alt="inwjd | https://github.com/inwjd" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub5]
-- 
+  
 - 18th Yu Jung Jung - humanoid walking [<img align="center" alt="yujung24 | https://github.com/yujung24" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub6]
 
 [GitHub]: https://github.com/yu-nsojeong
