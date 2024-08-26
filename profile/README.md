@@ -5,7 +5,8 @@
 # About us!
 ## Robot Sports Game Team RO:BIT
 
-<img src="https://raw.githubusercontent.com/ROBIT-KOR-teamHumanoid/.github/master/images/korea.jpg" alt="korea" width="300" height="200">
+<div align="center">  
+<img src="https://raw.githubusercontent.com/ROBIT-KOR-teamHumanoid/.github/master/images/korea.jpg" alt="korea" width="300" height="180">
 </div>
 
 The first robot sports game team in Korea, founded in 2006, is a student self-governing body of Kwangwoon University.
