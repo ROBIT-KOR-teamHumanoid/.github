@@ -16,10 +16,10 @@ RO:BIT develops robots in various sports fields such as robot soccer and track a
 Also, we are trying to make many people and students interested in robots through robot-based events.
 
 
-[<img align="left" alt="inwjd | YouTube" width="48px" src="https://img.icons8.com/color/48/youtube-play.png" />][YouTube]
-[<img align="left" alt="inwjd | Instagram" width="48px" src="https://img.icons8.com/fluency/48/instagram-new.png" />][instagram]
-[<img align="left" alt="inwjd | Facebook" width="48px" src="https://img.icons8.com/color/48/facebook.png" />][Facebook]
-[<img align="left" alt="inwjd | INTELLIGENCE" width="48px" src="https://raw.githubusercontent.com/ROBIT-KOR-teamHumanoid/.github/master/images/intelligence.png" />][INTELLIGENCE]
+[<img align="left" alt="YouTube | YouTube" width="48px" src="https://img.icons8.com/color/48/youtube-play.png" />][YouTube]
+[<img align="left" alt="Instagram | Instagram" width="48px" src="https://img.icons8.com/fluency/48/instagram-new.png" />][instagram]
+[<img align="left" alt="Facebook | Facebook" width="48px" src="https://img.icons8.com/color/48/facebook.png" />][Facebook]
+[<img align="left" alt="INTELLIGENCE | INTELLIGENCE" width="48px" src="https://raw.githubusercontent.com/ROBIT-KOR-teamHumanoid/.github/master/images/intelligence.png" />][INTELLIGENCE]
   
 [YouTube]: https://www.youtube.com/@ROBIT_KOREA
 [instagram]: https://instagram.com//robit_korea_official
