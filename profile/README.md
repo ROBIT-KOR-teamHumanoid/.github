@@ -22,11 +22,10 @@ Also, we are trying to make many people and students interested in robots throug
   
 [YouTube]: https://www.youtube.com/@ROBIT_KOREA
 [instagram]: https://instagram.com//robit_korea_official
-[Facebook]: https://facebook.com/kwrobit
+[Facebook]: https://facebook.com/kwrobit  
 
 
 
-<br>
 ## RO:BIT Humanoid Robot Team
 ### Research area
 
