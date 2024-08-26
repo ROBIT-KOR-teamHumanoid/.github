@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ROBIT-KOR-teamHumanoid/.github/master/images/robit_logo_kw.png" alt="ONLY_ROBIT" width="80%">
+  <img src="https://raw.githubusercontent.com/ROBIT-KOR-teamHumanoid/.github/master/images/robit_logo_kw.png" alt="ONLY_ROBIT" width="70%">
 </div>
 
 # About us!
