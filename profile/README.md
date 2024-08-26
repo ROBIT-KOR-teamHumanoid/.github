@@ -34,7 +34,7 @@ Also, we are trying to make many people and students interested in robots throug
 
 ## Team Members
 #### Currently Active Member
-- 17th Yoon So Jeong <2024 Team Leader> - computer vision, circuit design[<img align="center" alt="yu-nsojeong | https://github.com/yu-nsojeong" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][https://github.com/yu-nsojeong]
+- 17th Yoon So Jeong <2024 Team Leader> - computer vision, circuit design[<img align="center" alt="yu-nsojeong | https://github.com/yu-nsojeong" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub]
 
 - 17th Dae Kyum Kim  - hardware design[<img align="center" alt="inwjd | GitHub" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][https://github.com/daekyum02]
 
@@ -46,3 +46,5 @@ Also, we are trying to make many people and students interested in robots throug
 
 - 18th Jeong In Jang - circuit design[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
 - 18th Yu Jung Jung - humanoid walking[<img align="left" alt="inwjd | GitHub" width="48px" src="https://img.icons8.com/material-rounded/48/github.png" />][https://github.com/yu-nsojeong]
+
+[GitHub]: https://github.com/yu-nsojeong
