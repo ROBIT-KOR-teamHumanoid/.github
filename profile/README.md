@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/ROBIT-KOR-teamHumanoid/.github/master/images/korea.jpg" alt="korea" width="280" height="180">
 </div>
 
-The first robot sports game team in Korea, founded in 2006, is a student self-governing body of Kwangwoon University.
+The __first__ robot sports game team in Korea, founded in 2006, is a student self-governing body of __Kwangwoon University__.
 
 RO:BIT develops robots in various sports fields such as robot soccer and track and field, and develops robots in various fields such as intelligent robots, disaster rescue robots, and entertainment robots.
 
@@ -36,19 +36,19 @@ Also, we are trying to make many people and students interested in robots throug
 
 ## Team Members
 #### Currently Active Member
-- 17th Yoon So Jeong <2024 Team Leader> - computer vision, circuit design [<img align="center" alt="yu-nsojeong | https://github.com/yu-nsojeong" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub]
+- __17th Yoon So Jeong <2024 Team Leader>: computer vision, circuit design__ [<img align="center" alt="yu-nsojeong | https://github.com/yu-nsojeong" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub]
 
-- 17th Dae Kyum Kim  - hardware design [<img align="center" alt="daekyum02 | https://github.com/daekyum02" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub1]
+- __17th Dae Kyum Kim: hardware design__ [<img align="center" alt="daekyum02 | https://github.com/daekyum02" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub1]
 
-- 17th Seung Won Chang -humanoid walking [<img align="center" alt="daekyum02 | https://github.com/daekyum02" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub2]
+- __17th Seung Won Chang: humanoid walking__ [<img align="center" alt="daekyum02 | https://github.com/daekyum02" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub2]
 
-- 18th Tae Yong Shin - computer vision [<img align="center" alt="anemoiiaa | https://github.com/anemoiiaa" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub3]
+- __18th Tae Yong Shin: computer vision__ [<img align="center" alt="anemoiiaa | https://github.com/anemoiiaa" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub3]
 
-- 18th Hyun Woo You - hardware design [<img align="center" alt="03YHW | https://github.com/03YHW" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub4]
+- __18th Hyun Woo You: hardware design__ [<img align="center" alt="03YHW | https://github.com/03YHW" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub4]
 
-- 18th Jeong In Jang - circuit design [<img align="center" alt="inwjd | https://github.com/inwjd" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub5]
+- __18th Jeong In Jang: circuit design__ [<img align="center" alt="inwjd | https://github.com/inwjd" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub5]
   
-- 18th Yu Jung Jung - humanoid walking [<img align="center" alt="yujung24 | https://github.com/yujung24" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub6]
+- __18th Yu Jung Jung: humanoid walking__ [<img align="center" alt="yujung24 | https://github.com/yujung24" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub6]
 
 [GitHub]: https://github.com/yu-nsojeong
 [GitHub1]: https://github.com/daekyum02
