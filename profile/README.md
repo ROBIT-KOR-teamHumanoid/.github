@@ -39,6 +39,7 @@ Also, we are trying to make many people and students interested in robots throug
 #### Humanoid Walking
 
 
+
 ## Team Members
 #### Currently Active Member
 - __17th Yoon So Jeong<2024 Team Leader>: computer vision, circuit design__ [<img align="center" alt="yu-nsojeong | https://github.com/yu-nsojeong" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub]
