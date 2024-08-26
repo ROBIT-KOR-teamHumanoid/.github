@@ -1,6 +1,5 @@
-<a href="profile/robit_logo_kw.png">
 <div align="center">
-<img src="profile/robit_logo_kw.png">
+  <img src="https://raw.githubusercontent.com/ROBIT-KOR-teamHumanoid/.github/master/images/robit_logo_kw.png" alt="ONLY_ROBIT" />
 </div>
 ## Hi there 👋
 
