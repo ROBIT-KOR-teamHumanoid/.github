@@ -50,12 +50,6 @@ Also, we are trying to make many people and students interested in robots throug
 
 ## Team Members
 #### Currently Active Member
-- __18th Yu Jung Jung<2025 Team Leader> :&nbsp;&nbsp;Humanoid Walking__ [<img align="center" alt="yujung24 | https://github.com/yujung24" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub4]
-
-- __18th Tae Yong Shin :&nbsp;&nbsp;Computer Vision__ [<img align="center" alt="anemoiiaa | https://github.com/anemoiiaa" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub1]
-
-- __18th Hyun Woo You :&nbsp;&nbsp;Hardware Design__ [<img align="center" alt="03YHW | https://github.com/03YHW" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub2]
-
 - __18th Jeong In Jang :&nbsp;&nbsp;Circuit Design__ [<img align="center" alt="inwjd | https://github.com/inwjd" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub3]
 
 - __19th Koo Do Yeon :&nbsp;&nbsp;Hardware Design__ [<img align="center" alt="anemoiiaa | https://github.com/koodoyeon" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub5]
@@ -65,6 +59,15 @@ Also, we are trying to make many people and students interested in robots throug
 - __19th No Eun gang :&nbsp;&nbsp;Circuit Design__ [<img align="center" alt="inwjd | https://github.com/shdmsrkd" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub7]
   
 - __19th Lee Won Jun :&nbsp;&nbsp;Humanoid Walking__ [<img align="center" alt="yujung24 | https://github.com/WJJJ2004" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub8]
+
+
+#### Previous Member
+- __18th Yu Jung Jung<2025 Team Leader> :&nbsp;&nbsp;Humanoid Walking__ [<img align="center" alt="yujung24 | https://github.com/yujung24" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub4]
+
+- __18th Tae Yong Shin :&nbsp;&nbsp;Computer Vision__ [<img align="center" alt="anemoiiaa | https://github.com/anemoiiaa" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub1]
+
+- __18th Hyun Woo You :&nbsp;&nbsp;Hardware Design__ [<img align="center" alt="03YHW | https://github.com/03YHW" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub2]
+
 
 
 [GitHub1]: https://github.com/anemoiiaa
