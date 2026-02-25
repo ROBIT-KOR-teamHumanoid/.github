@@ -51,7 +51,7 @@ Also, we are trying to make many people and students interested in robots throug
 ## Team Members
 #### Currently Active Member
 
-- __19th Koo Do Yeon :&nbsp;&nbsp;Hardware Design__ <a href="https://github.com/koodoyeon"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- __19th Koo Do Yeon<2026 Team Leader> :&nbsp;&nbsp;Hardware Design__ <a href="https://github.com/koodoyeon"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 - __19th Kim Geun Hyeong :&nbsp;&nbsp;Computer Vision__ <a href="https://github.com/kgh2005"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
