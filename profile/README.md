@@ -50,9 +50,8 @@ Also, we are trying to make many people and students interested in robots throug
 
 ## Team Members
 #### Currently Active Member
-- __18th Jeong In Jang :&nbsp;&nbsp;Circuit Design__ [<img align="center" alt="inwjd | https://github.com/inwjd" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub3]
 
-- __19th Koo Do Yeon :&nbsp;&nbsp;Hardware Design__ [<img align="center" alt="anemoiiaa | https://github.com/koodoyeon" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub5]
+- __19th Koo Do Yeon :&nbsp;&nbsp;Hardware Design__ <a href="https://github.com/koodoyeon"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 - __19th Kim Geun Hyeong :&nbsp;&nbsp;Computer Vision__ [<img align="center" alt="03YHW | https://github.com/kgh2005" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub6]
 
@@ -67,6 +66,8 @@ Also, we are trying to make many people and students interested in robots throug
 - __18th Tae Yong Shin :&nbsp;&nbsp;Computer Vision__ [<img align="center" alt="anemoiiaa | https://github.com/anemoiiaa" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub1]
 
 - __18th Hyun Woo You :&nbsp;&nbsp;Hardware Design__ [<img align="center" alt="03YHW | https://github.com/03YHW" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub2]
+
+- __18th Jeong In Jang :&nbsp;&nbsp;Circuit Design__ [<img align="center" alt="inwjd | https://github.com/inwjd" width="24px" src="https://img.icons8.com/material-rounded/24/github.png" />][GitHub3]
 
 
 
