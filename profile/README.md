@@ -53,12 +53,19 @@ Also, we are trying to make many people and students interested in robots throug
 
 - __19th Koo Do Yeon<2026 Team Leader> :&nbsp;&nbsp;Hardware Design__ <a href="https://github.com/koodoyeon"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- __19th Kim Geun Hyeong :&nbsp;&nbsp;Computer Vision__ <a href="https://github.com/kgh2005"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- __19th Kim Geun Hyeong :&nbsp;&nbsp;Software Engineer__ <a href="https://github.com/kgh2005"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 - __19th No Eun gang :&nbsp;&nbsp;Circuit Design__ <a href="https://github.com/shdmsrkd"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 - __19th Lee Won Jun :&nbsp;&nbsp;Humanoid Walking__ <a href="https://github.com/WJJJ2004"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
+- __20th Choi Se Yeong :&nbsp;&nbsp;Hardware Design__ <a href="https://github.com/moieboy9999"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- __20th Hyun Chang Seok :&nbsp;&nbsp;Software Engineer__ <a href="https://github.com/sasdfdse"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- __20th Song Yeon U :&nbsp;&nbsp;Circuit Design__ <a href="https://github.com/Songyeonu-ai"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+
+- __20th Park Geon Hu :&nbsp;&nbsp;Humanoid Walking__ <a href="https://github.com/parkgeon1202"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 #### Previous Member
 - __18th Yu Jung Jung<2025 Team Leader> :&nbsp;&nbsp;Humanoid Walking__ <a href="https://github.com/yujung24"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
