@@ -55,7 +55,7 @@ Also, we are trying to make many people and students interested in robots throug
 
 - __19th Kim Geun Hyeong :&nbsp;&nbsp;Software Engineer__ <a href="https://github.com/kgh2005"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
-- __19th No Eun gang :&nbsp;&nbsp;Circuit Design__ <a href="https://github.com/shdmsrkd"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
+- __19th No Eun Gang :&nbsp;&nbsp;Circuit Design & Firmware__ <a href="https://github.com/shdmsrkd"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
 - __19th Lee Won Jun :&nbsp;&nbsp;Humanoid Walking__ <a href="https://github.com/WJJJ2004"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"/></a>
 
